@@ -15,7 +15,7 @@ This is an Electron.js desktop application for resizing images.
 
 ## How to Use
 
-1. [Download the latest release](https://github.com/your-username/your-repo/releases/latest).
+1. [Download the latest release](https://github.com/Ajulrag/Image-Resizer.git).
 2. Extract the ZIP file.
 3. Run the executable file.
 
